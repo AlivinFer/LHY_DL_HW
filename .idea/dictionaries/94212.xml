@@ -2,11 +2,16 @@
   <dictionary name="94212">
     <words>
       <w>adagrad</w>
+      <w>crossentropy</w>
       <w>dcit</w>
       <w>itera</w>
       <w>iters</w>
       <w>lvls</w>
       <w>meshgrid</w>
+      <w>pinv</w>
+      <w>relu</w>
+      <w>softmax</w>
+      <w>sprop</w>
       <w>vals</w>
     </words>
   </dictionary>
